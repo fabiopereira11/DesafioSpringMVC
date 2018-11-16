@@ -7,7 +7,8 @@ Simple Spring MVC CRUD Project
  - Mysql DataBase.
  - Bootstrap.
 
-To run the project:
+Before run the project:
 
->mvn eclipse:eclipse.
->Change db.password in application.properties file.
+>mvn eclipse:eclipse
+
+>Change db.password in application.properties file
