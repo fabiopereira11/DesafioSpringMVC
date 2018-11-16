@@ -9,5 +9,5 @@ Simple Spring MVC CRUD Project
 
 To run the project:
 
->mvn eclipse:eclipse
->Change db.password in application.properties file
+>mvn eclipse:eclipse.
+>Change db.password in application.properties file.
